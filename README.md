@@ -35,7 +35,7 @@
 <h3 id="productorepositorio">ProductoRepositorio</h3>
 <p>The <code>productorepositorio</code> interface extends JpaRepository and provides methods for CRUD operations inside the API REST.  
   
-<h3 id="productoservicio">ProductoServicio(+Impl)</h3>
+<h3 id="productoservicio">ProductoServicio</h3>
 <p>The <code>productoservicio</code> class interacts directly with the <code>ProductoRepositorio</code>. In here we can define methods to handle the CRUD operations related to entities defined in the <code>Producto</code> class.</p>
 
 </body>
